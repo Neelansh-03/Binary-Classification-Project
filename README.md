@@ -1,7 +1,3 @@
-Here is a professional and structured `README.md` file for your project. This is designed to be clear for anyone reviewing your GitHub repository or project submission.
-
----
-
 # Predictive Binary Classifier for Customer Conversion
 
 ## 🎯 Project Overview
